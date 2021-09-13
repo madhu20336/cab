@@ -1,0 +1,119 @@
+{
+    "driveData": [
+        {
+            "vehicle": "cab",
+            "Driver_name": "mukesh",
+            "contect_number": "2141567889",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "45$",
+            "feedback": []
+        },
+        {
+            "vehicle": "texi",
+            "Driver_name": "ramesh",
+            "contect_number": "2341517889",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "78$",
+            "feedback": []
+        },
+        {
+            "vehicle": "auto",
+            "Driver_name": "raju",
+            "contect_number": "2341567881",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "48$",
+            "feedback": []
+        },
+        {
+            "vehicle": "cab",
+            "Driver_name": "suresh",
+            "contect_number": "1341567889",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "88$",
+            "feedback": []
+        },
+        {
+            "vehicle": "auto",
+            "Driver_name": "sanjay",
+            "contect_number": "2341567189",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "89$",
+            "feedback": []
+        },
+        {
+            "vehicle": "texi",
+            "Driver_name": "suraj",
+            "contect_number": "2341567489",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "58$",
+            "feedback": []
+        },
+        {
+            "vehicle": "cab",
+            "Driver_name": "sanket",
+            "contect_number": "2341557889",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "38$",
+            "feedback": []
+        },
+        {
+            "vehicle": "auto",
+            "Driver_name": "meena",
+            "contect_number": "2341577889",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "98$",
+            "feedback": [
+                "djfdjfd"
+            ]
+        },
+        {
+            "vehicle": "cab",
+            "Driver_name": "sheela",
+            "contect_number": "2341507889",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "78$"
+        },
+        {
+            "vehicle": "texi",
+            "Driver_name": "rocky",
+            "contect_number": "2341567809",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "28$",
+            "feedback": [
+                "jdndjkjdlkd"
+            ]
+        },
+        {
+            "vehicle": "cab",
+            "Driver_name": "vivek",
+            "contect_number": "2341567849",
+            "model": "maruki suzuki",
+            "vehicle_number": "MH786685",
+            "rating": "4.1",
+            "price": "80$",
+            "feedback": [
+                "good"
+            ]
+        }
+    ]
+}
